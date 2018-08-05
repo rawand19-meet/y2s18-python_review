@@ -1,1 +1,4 @@
-# Write your solution for 1.1 here!
+x =0
+for i in range(100):
+    x = x + 1
+print(x)
